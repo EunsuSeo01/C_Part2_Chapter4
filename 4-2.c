@@ -7,6 +7,7 @@ int main() {
 	printf("%d %d \n", *(array + 1), *&array[1]);
 	printf("%d %d \n", *(array + 2), *&array[2]);
 
+	// 저장된 값의 크기라서 int형은 4byte라서 늘 4 4 4가 뜸.
 	printf("%d %d %d \n", sizeof(*array), sizeof(*(array + 0)), sizeof(*&array[0]));
 
 	return 0;
