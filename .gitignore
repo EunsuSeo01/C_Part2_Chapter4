@@ -1,7 +1,7 @@
-.vs
+*.vs
 /Debug
 /x64
-.sln
-.vcxproj
-.vcxproj.filters
-.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.user
