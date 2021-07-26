@@ -3,5 +3,5 @@
 /x64
 .sln
 .vcxproj
-.filters
+.vcxproj.filters
 .user
