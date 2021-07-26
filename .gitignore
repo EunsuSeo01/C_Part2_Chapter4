@@ -1,5 +1,10 @@
 # Prerequisites
 *.d
+*.ipch
+*.tlog
+*.log
+*.txt
+*.lastbuildstate
 
 # Object files
 *.o
