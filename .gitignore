@@ -1,7 +1,3 @@
-/Debug
-/.vs
-
-# Prerequisites
 *.d
 *.ipch
 *.tlog
@@ -84,5 +80,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+*/Debug
+*/.vs
 
 # End of https://www.toptal.com/developers/gitignore/api/c,windows
