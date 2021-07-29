@@ -57,5 +57,26 @@
     <ClCompile Include="4-10.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="4-14.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4-15.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4-16.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="배열_포인터.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4-17.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4-18.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
