@@ -57,6 +57,7 @@
     <ClCompile Include="4-10.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="4-14.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -76,6 +77,18 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="4-18.c">
+=======
+    <ClCompile Include="4-11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4-11-m.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4-12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4-13.c">
+>>>>>>> 43edfcf65c6754d25b581d5cbaea53bf13020414
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

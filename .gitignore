@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+=======
+/Debug
+/x64
+/.vs
+Debug/
+x64/
+.vs/
+
+# Prerequisites
+>>>>>>> 43edfcf65c6754d25b581d5cbaea53bf13020414
 *.d
 *.ipch
 *.tlog
