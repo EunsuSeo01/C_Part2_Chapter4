@@ -24,6 +24,7 @@ int main(void) {
 	printf("%d %d %d \n", p[1][0], p[1][1], p[1][2]);
 	printf("---------------\n");
 
+	// printf("Test: %x %x %d\n", array, *p, **(p+1));
 	printf("%d %d %d \n", *(p[0] + 0), *(p[0] + 1), *(p[0] + 2));
 	printf("%d %d %d \n", *(p[1] + 0), *(p[1] + 1), *(p[1] + 2));
 	printf("---------------\n");
