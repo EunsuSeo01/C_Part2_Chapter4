@@ -132,5 +132,23 @@
     <ClCompile Include="4-35.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Ch4_Q1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch4_Q2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch4_Q3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch4_Q4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch4_Q5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch4_Q6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
